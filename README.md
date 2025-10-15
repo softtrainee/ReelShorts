@@ -77,3 +77,7 @@ Open the project in Xcode (version 13.2.1 or later).
 Enable the "Background Modes" capability in Signing & Capabilities, and check "Audio, AirPlay, and Picture in Picture" and "Background Fetch".
 
 Build and run on a physical iOS device or simulator.
+
+# Output: 
+
+https://youtube.com/shorts/Vb5RPVGQ0GQ?feature=share
